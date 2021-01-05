@@ -6,11 +6,11 @@ This is a starter repo for the Capstone project in the [Udacity C++ Nanodegree P
 The Capstone Project gives you a chance to integrate what you've learned throughout this program.
 
 # Newly Added features:
-1- Adding an obstacle in the middle of the screen and if the snake head hits it the game ends, also we need to add it in the checking before placing the new food.
-2- Adding bonus food at the same time with normal food, if the snake gets it score is doubled if not zero, if the score is zero it increases to one and the speed increse by rate more than the normal increase.
-3- Adding poison food at the same time with normal food and bonus food, if the snake gets it the speed decreases and score decrease by one, if the score become less than zero the game is over and user has to close the game by himself, and if the speed becomes less than zero the game is over and user has to close the game by himself.
-4- Adding the ability of the user to choose to begin the game or to quit it and if the user chooses invalid option it will not be taken.
-5- Adding the ability of the user to choose the initial speed of the game (easy,medium,hard).
+1. Adding an obstacle in the middle of the screen and if the snake head hits it the game ends, also we need to add it in the checking before placing the new food.
+2. Adding bonus food at the same time with normal food, if the snake gets it score is doubled if not zero, if the score is zero it increases to one and the speed increse by rate more than the normal increase.
+3. Adding poison food at the same time with normal food and bonus food, if the snake gets it the speed decreases and score decrease by one, if the score become less than zero the game is over and user has to close the game by himself, and if the speed becomes less than zero the game is over and user has to close the game by himself.
+4. Adding the ability of the user to choose to begin the game or to quit it and if the user chooses invalid option it will not be taken.
+5. Adding the ability of the user to choose the initial speed of the game (easy,medium,hard).
 
 ## Dependencies for Running Locally
 * cmake >= 3.7
